@@ -11,10 +11,7 @@ references to the images used in /folder
 
 credit goes to:
 
-story/narration: Laszlo Montgomery
-layouts:
-code/image mods: ![rafszul](https://goo.gl/E6yOWv)
+- story/narration: Laszlo Montgomery
+- layouts:
+- code/image mods: ![rafszul](https://goo.gl/E6yOWv)
 
-https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed-fool-rejected-by-printer.svg
-
-(http://codepen.io/rafszul/)
