@@ -11,7 +11,7 @@ references to the images used in /folder
 
 credit goes to:
 
-- story/narration: Laszlo Montgomery
+- story/narration: Laszlo Montgomery [![The China History Podcast](https://i1.sndcdn.com/avatars-000028914559-boem6u-t500x500.jpg)](https://soundcloud.com/chinahistorypodcast)
 - layouts:
-- code/image mods: ![rafszul](https://goo.gl/E6yOWv)
+- code/image mods: rafszul ![rafszul](https://goo.gl/E6yOWv)
 
