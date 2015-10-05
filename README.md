@@ -7,9 +7,9 @@ the particular episode of the podcast can be [heard and downloaded on soundcloud
 
 the main idea is to use awesome power of svg for enhancing the great story narrated in absolutely awesome way by LM with graphics and interactivity.
 
-WIP
+if you just want to get the feel of the story check out the [album on fb with the graphics as.jpg](https://goo.gl/tAE9NE) or see folder [/assets/_img_reuse_mod_Qin-Shihuang_/_img_traced_](https://github.com/projekt-kreatywa/Qin-Shihuang/tree/master/assets/_img_reuse_mod_Qin-Shihuang_/_img_traced_)
 
-references to the images used in /folder
+references to the images used in [/assets/_img_reuse_mod_Qin-Shihuang_/](https://github.com/projekt-kreatywa/Qin-Shihuang/tree/master/assets/_img_reuse_mod_Qin-Shihuang_)
 
 credit goes to:
 
