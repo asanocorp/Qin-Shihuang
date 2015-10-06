@@ -1,5 +1,15 @@
 # Qin-Shihuang
-programmers say: "demo or it didn't happen" so this is a demo of an interactive story of Qin-Shihuang based on The China History Podcast by Laszlo Montgomery and prepared for author's viewing pleasure.
+this is a demo of an interactive story in the making with the use of svg as primary medium.
+
+[![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/IMNGN02958.svg)](http://codepen.io/collection/DYyOyo/)
+
+the story is that of Qin-Shihuang and is inspired and based on The China History Podcast by Laszlo Montgomery and prepared for author's viewing pleasure.
+
+more info in [README.md](https://github.com/projekt-kreatywa/Qin-Shihuang) on github
+
+the prototype at http://qin-shihuang.netlify.com/ <- netlify.com - i have a new bulid tool!!
+
+live experiments as always in a collection on [codepen.io](http://codepen.io/collection/DYyOyo/)
 
 the particular episode of the podcast can be [heard and downloaded on soundcloud here](http://chinahistorypodcast.com/chp-157-the-rise-and-fall-of-the-qin).
 
